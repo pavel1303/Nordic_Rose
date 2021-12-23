@@ -1,0 +1,14 @@
+.tags{
+    max-width: 100%;
+    display: flex;
+    gap: 10px;
+    color: white;
+    justify-content: space-around;
+    font-family: "SF Pro";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 10%;
+    text-transform: uppercase;
+    margin: 18px auto 105px auto;
+}

@@ -1,0 +1,12 @@
+.lead__subheader{
+  font-family: "SF Mono";
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 34px;
+  text-align: center;
+  max-width: 562px;
+  letter-spacing: 3px;
+  margin-top: 32px;
+  border-bottom: 1px solid black;
+  padding-bottom: 34px;
+}

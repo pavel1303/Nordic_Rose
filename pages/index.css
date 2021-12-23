@@ -1,13 +1,30 @@
+@import url(../blocks/body/body.css);
 @import url(../fonts/stylesheet.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__burger/header__burger.css);
 @import url(../blocks/header/__logo/header__logo.css);
 @import url(../blocks/header/__navigation/header__navigation.css);
 @import url(../blocks/header/header.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__image/lead__image.css);
+@import url(../blocks/lead/__header/lead__header.css);
+@import url(../blocks/lead/__subheader/lead__subheader.css);
 
-body {
-   width: 100%;
-   font-family: "NewYorkSmallRegular";
-}
 
+@import url(../blocks/cards/cards.css);
+@import url(../blocks/cards/__article/cards__article.css);
+@import url(../blocks/cards/__header/cards__header.css);
+@import url(../blocks/item/item.css);
+@import url(../blocks/items/items.css);
+@import url(../blocks/cards/__link/cards__link.css);
+
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/tags/_upper/tag_upper_uppercase.css);
+@import url(../blocks/tags/tags.css);
+@import url(../blocks/footer/__comment/footer__comment.css);
+@import url(../blocks/links/links.css);
 

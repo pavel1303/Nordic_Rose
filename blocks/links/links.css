@@ -1,0 +1,6 @@
+.links{
+    display: flex;
+    max-width: 209px;
+ 
+    gap: 27px;
+}

@@ -1,0 +1,10 @@
+.footer__comment{
+    color: white;
+    max-width: 488px;
+    font-family: "New York Small";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 140%;
+    margin: 25px auto 32px auto;
+}

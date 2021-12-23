@@ -1,0 +1,11 @@
+.cards__link{
+    max-width: 304px;
+    margin-top: 20px;
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-family: "SF Pro Display";
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 26px;
+}

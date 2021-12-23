@@ -1,0 +1,9 @@
+.footer__link{
+    color: white;
+    font-family: "SF Pro Text";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 170%;
+    text-decoration-line: underline;
+}
